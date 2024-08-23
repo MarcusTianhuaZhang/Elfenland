@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="ASCII"?>
+<core:COREConcern xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://cs.mcgill.ca/sel/core/2.0" xmi:id="_l1vkQCfSEey9_b-PAeutOg" name="Elfenroads" featureModel="_l1vkQSfSEey9_b-PAeutOg" impactModel="_l1vkQyfSEey9_b-PAeutOg">
+  <artefacts xsi:type="core:COREFeatureModel" xmi:id="_l1vkQSfSEey9_b-PAeutOg" root="_l1vkQifSEey9_b-PAeutOg">
+    <features xmi:id="_l1vkQifSEey9_b-PAeutOg" name="Elfenroads" realizedBy="_mcI14CfSEey9_b-PAeutOg _WOnG0EM7EeyICubppPfqPQ"/>
+<<<<<<< HEAD
+  </artefacts>
+  <artefacts xsi:type="core:COREImpactModel" xmi:id="_l1vkQyfSEey9_b-PAeutOg" name="Impact Model">
+    <impactModelElements xmi:id="_2d-GQENnEey_dN1o1Oh6bw" name="UnnamedGoal"/>
+    <layouts xmi:id="_2d-GQUNnEey_dN1o1Oh6bw" key="_2d-GQENnEey_dN1o1Oh6bw">
+      <value xmi:id="_2d-GQkNnEey_dN1o1Oh6bw" key="_2d-GQENnEey_dN1o1Oh6bw">
+        <value xmi:id="_2d-GQ0NnEey_dN1o1Oh6bw" x="700.0" y="50.0"/>
+      </value>
+    </layouts>
+=======
+>>>>>>> network
+  </artefacts>
+  <artefacts xsi:type="core:COREExternalArtefact" xmi:id="_mcI14ifSEey9_b-PAeutOg" name="Elfenroads" scene="_mcI14CfSEey9_b-PAeutOg" languageName="Use Cases">
+    <rootModelElement href="Use%20Cases/Elfenroads.use_case.uc#_mb4XMCfSEey9_b-PAeutOg"/>
+  </artefacts>
+  <artefacts xsi:type="core:COREExternalArtefact" xmi:id="_WOnt4EM7EeyICubppPfqPQ" name="Elfenroads" scene="_WOnG0EM7EeyICubppPfqPQ" languageName="Class Diagram Language">
+    <rootModelElement href="Class%20Diagram%20Language/Elfenroads-a.domain_model.cdm#_WOl4sEM7EeyICubppPfqPQ"/>
+  </artefacts>
+  <scenes xmi:id="_mcI14CfSEey9_b-PAeutOg" realizes="_l1vkQifSEey9_b-PAeutOg" perspectiveName="Use Case Modelling">
+    <artefacts xmi:id="_mcI14SfSEey9_b-PAeutOg" value="_mcI14ifSEey9_b-PAeutOg" key="Use Case"/>
+  </scenes>
+  <scenes xmi:id="_WOnG0EM7EeyICubppPfqPQ" realizes="_l1vkQifSEey9_b-PAeutOg" perspectiveName="Domain Modelling">
+    <artefacts xmi:id="_WOnG0UM7EeyICubppPfqPQ" value="_WOnt4EM7EeyICubppPfqPQ" key="Domain Model"/>
+  </scenes>
+</core:COREConcern>
